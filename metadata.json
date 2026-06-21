@@ -1,0 +1,6 @@
+{
+  "name": "LearnWithJulfy Free Image Tools",
+  "description": "Best Free Image Tool Online to convert, compress, resize, crop, edit, enhance and manage images completely free without registration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
